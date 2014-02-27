@@ -15,7 +15,3 @@
 //= require "jquery.js"
 //= require "script.js"
 //= require "min.js"
- 
-
-#//= require "min.js"
-#//= require "script.js"
