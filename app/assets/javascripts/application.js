@@ -12,6 +12,5 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require "jquery.js"
 //= require "script.js"
 //= require "min.js"

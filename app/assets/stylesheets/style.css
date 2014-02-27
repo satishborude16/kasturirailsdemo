@@ -29,16 +29,16 @@ body{
 		font-size:11px;
 		color:#555555;
 		font-family: 'MyriadPro-Regular', "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;;
-    	src: url('assets/_font/MyriadPro-Regular.eot');
-	    src: url('assets/_font/MyriadPro-Regular.otf') format('opentype');
+    	src: url('/assets/MyriadPro-Regular.eot');
+	    src: url('/assets/MyriadPro-Regular.otf') format('opentype');
 
 		}
 
 
 @font-face {
     font-family: 'MyriadPro-Regular';
-    src: url('assets/_font/MyriadPro-Regular.eot');
-    src: url('assets/_font/MyriadPro-Regular.otf') format('opentype');
+    src: url('/assets/MyriadPro-Regular.eot');
+    src: url('/assets/MyriadPro-Regular.otf') format('opentype');
     
     font-weight: normal;
     font-style: normal;
@@ -91,7 +91,7 @@ hr{
 		margin-top:20px;}
 
 #logo{
-		background:url(.assets/images/logo.png) no-repeat left;
+		background:url(/assets/logo.png) no-repeat left;
 		width:144px;
 		float:left;
 		height:16px;
