@@ -26,35 +26,21 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 ---------------------------------------------------------*/
 
 body{
-		background: #FFF;
-		font-size:11px;
-		color:#555555;
-		font-family: 'MyriadPro-Regular', "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;;
-    	src: url('/assets/MyriadPro-Regular.eot');
-	    src: url('../fonts/MyriadPro-Regular.otf') format('opentype');
-
-		}
-
-
+	background: #FFF;
+	font-size:11px;
+	color:#555555;
+	font-family: 'MyriadPro-Regular', "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;;
+	src: url('/assets/MyriadPro-Regular.eot');
+}
 @font-face {
     font-family: 'MyriadPro-Regular';
     src: url('/assets/MyriadPro-Regular.eot');
-    src: url('../fonts/MyriadPro-Regular.otf') format('opentype');
-    
     font-weight: normal;
     font-style: normal;
-
 }
 
-
-
-
-img{
-	   	border:none;}
+img{border:none;}
 	   
-
-
-
 a{
 		color:#75cdd2;
 		text-decoration:none;}
